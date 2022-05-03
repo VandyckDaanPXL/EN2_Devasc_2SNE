@@ -58,7 +58,7 @@
 * Analyseren 
 * Print statements toegevoegd
 
-# Task 3 : Githu Skills
+# Task 6 : Build Network
 ## Taakvoorbereiding & Taakimplementatie
 * Design
 * IP-Plan
