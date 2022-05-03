@@ -10,39 +10,65 @@
 ### Oplossing
 * sudo apt-get install python3-tk
 
-Task 2 : Explore Python development tool and REST APIs
-Aan deze taak was er weinig voorbereiding. We begonnen met de API simulator. Deze tool gaf snel een beeld van hoe API’s werken, maar was op technisch vlak heel simpel.
+# Task 2 : Explore Python developement tool and REST APIs
+## Taakvoorbereiding & Taakimplementatie
+* Weinig voorbereiding tot geen voorbereiding
+## Taak oplossen & Problemen
+* gestart met API simulator
+    * Zeer simpel en niet technisch
+* Postman --> technischer 
+    * Werkt ongeveer op dezelfde manier als API simulator
+* Screenshot van get in Postman in Directory Task 2
+* Via python script 100 boeken toegevoegd
 
-Er is ook een mogelijkheid om via het curl commando met API’s gegevens op te gaan roepen via een terminal. 
+# Task 3 : Githu Skills
+## Taakvoorbereiding & Taakimplementatie
+* Mkdir om de EN2 map aan te maken
+* Git init
+* Voor elke taak een map gemaakt
+* Voor elke opdracht data toevoegen
+* Git Push
+* Git staat in sync met Github
+## Taak oplossen & Problemen
+* Probleem met git push naar Github
+* 
+### Oplossing
+* git clone
+* Personal access token toevoegen
+* Git push
 
-Na de API Simulator begonnen we met Postman. Dit programma is al iets ingewikkelder maar werkt op dezelfde manier als de API simulator. Op onderstaande foto is te zien hoe via postman een get gebeurd van de huidige boeken.
+# Task 4 : Webex Teams API
+## Taakvoorbereiding & Taakimplementatie
+* Valid key genereren
+* Via scripts aanpassingen doen in Webex
+* Bekom key via Developer site van Webex
+## Taak oplossen & Problemen
+* Zie scripts in de map Task 4
+* Geen echte problemen
 
-De eindopdracht is het toevoegen van 100 boeken via een python script. 
-	
-Task 3 : Github Skills
-eerst heb ik een mkdir gedaan en daarna een git init in de EN2...Directory
-Mkdir alle tasks zodat iedere task een aparte map is.
-Zo als hierboven beschreven moet er eerst een directory worden geinitialiseerd. Daarna zal je na de aanpassingen een git push moeten doen zodat de directory gesynct is met github.
-Ik had één groot probleem. Het lukte maar niet om mijn direcotory op github te krijgen. Ik deed eerst een git add en daarna een git commit en dit lukte nog steeds niet.
-Toen kwam ik erachter dat ik nog een git push moest doen. Dit heeft het probleem opgelost.
-Ik heb twee screenshots toegevoegd één waar je duidelijk kan zien dat ik een git init gedaan heb en één waarbij ik een git push doe naar de github repo.
+# Task 5 : Data format Conversion
 
-Task 4 : Webex Teams API
-Taakvoorbereiding en Taakimplementatie
-om te starten met deze opdracht heb je een valid key nodig om via scripts aanpassingen te doen in je webex. Deze kan je terugvinden op de Developers site van webex.
-hoe heb je dit geïmplementeerd?
-Door middel van scripts die u kan terugvinden onder task 4 kan u zien dat ik de opgave heb opgelost.
-Taak oplossen van problemen
-wat waren de problemen die je tegenkwam?
-Taakverificatie
-bewijs van je de taak met succes hebt uitgevoerd
+## Taakvoorbereiding & Taakimplementatie
+* Script laten draaien
+* Output bekeken
+* Print statements toegevoegd
+## Taak oplossen & Problemen
+* Ik begreep het script niet volledig
+### Oplossing
+* Analyseren 
+* Print statements toegevoegd
 
-
-Task 5 : Data format Conversion
-In eerste instantie heb ik het script laten draaien om te kijken of ik al eventuele output zou krijgen. Daarna heb ik enkele print statements toegevoegd. Hierna kon ik toch al enkele antwoorden geven in de blackboard toets. Voor de overige antwoorden heb ik mij gebaseerd op het script zelf. Er waren geen specifieke problemen. Alleen begreep ik het script eerst niet. Toen ik dit eenmaal begreep was het wel wat duidelijker. 
+# Task 3 : Githu Skills
+## Taakvoorbereiding & Taakimplementatie
+* Design
+* IP-Plan
+* Configuratie Core 1
+## Taak oplossen & Problemen
+* Problemen met configuratie
+### Oplossing
+* Opgezocht op google
 
 
 
-TaskNetwork
-Ik ben begonnen met een design uit te werken, daarna een IP-Plan te maken. Toen dit in orde was ben ik gestart met de configuratie van de 1ste coreswitch.	
+
 
