@@ -1,9 +1,14 @@
-﻿Task 1 : Python Skills
-Als eerst heb ik moeten kijken wat er wel en niet geïnstalleerd was. Jupyter en Python IDLE heb ik bijvoorbeeld eerst moeten installeren. In Visual Studio code heb ik eerst een update moeten doen van python hierna kon ik pas python scripts runnen. Ik had problemen met geopy. Er was een probleem met de versie van python die ik op dat moment aan het gebruiken was.
-
-Met het commando 
-•	Sudo apt-get install python3-tk
-Was het problem opgelost.
+﻿# Task 1 : Python Skills
+## Taakvoorbereiding & Taakimplementatie
+* Gecheckt wat er eventueel geïnstalleerd moest worden.
+* Jupyter geïnstalleerd
+* Python IDLE geïnstalleerd
+* Update Python Visual Studio Code 
+## Taak oplossen & Problemen
+* Geopy werkte niet in VS Code
+* Versie Probleem
+### Oplossing
+* sudo apt-get install python3-tk
 
 Task 2 : Explore Python development tool and REST APIs
 Aan deze taak was er weinig voorbereiding. We begonnen met de API simulator. Deze tool gaf snel een beeld van hoe API’s werken, maar was op technisch vlak heel simpel.
