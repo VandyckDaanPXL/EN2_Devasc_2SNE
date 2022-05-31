@@ -21,7 +21,7 @@
 * Screenshot van get in Postman in Directory Task 2
 * Via python script 100 boeken toegevoegd
 
-# Task 3 : Githu Skills
+# Task 3 : Github Skills
 ## Taakvoorbereiding & Taakimplementatie
 * Mkdir om de EN2 map aan te maken
 * Git init
@@ -58,7 +58,7 @@
 * Analyseren 
 * Print statements toegevoegd
 
-# Task 6 : Build Network
+# Task : Build Network
 ## Taakvoorbereiding & Taakimplementatie
 * Design
 * IP-Plan
@@ -67,6 +67,32 @@
 * Problemen met configuratie
 ### Oplossing
 * Opgezocht op google
+
+# Task 6 : Datacommunication
+## Theoretische taak op Blackboard
+* HSRP
+* Etherchannels
+* Trunking
+* Netwerk services in een bedrijfsnetwerk
+* Implementatie met draadloze access points en controller
+* Best practices voor beveiliging
+
+# Task 7 : Network_Documentation
+## Deliverables
+* IP-plan en Vlan segmentatie
+* Netwerktekening
+* Naamconventie
+
+# Task 8 : Netmiko
+## Taakvoorbereiding & Taakimplementatie
+* Script in VScode plaatsen
+* script aanpassen
+* ping naar switch
+## Taak oplossen & Problemen
+* foutmelding bij runnen script
+* opgelost door code aan te passen
+## Taakverificatie
+* Zie bestanden in directory
 
 
 
