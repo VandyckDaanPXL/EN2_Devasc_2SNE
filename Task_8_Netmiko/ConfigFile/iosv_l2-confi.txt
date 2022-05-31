@@ -1,0 +1,6 @@
+!
+int gig 1/0/4
+switchport mode access
+switchport acces vlan 10
+exit
+!
